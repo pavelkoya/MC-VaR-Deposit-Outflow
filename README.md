@@ -1,4 +1,4 @@
-# MC-VaR-Deposit-Outflow-
+# MC-VaR-Deposit-Outflow
 The project part eliminated the shortcomings of the current methodology for calculating the risks of VaR of the outflow of the deposit portfolio of Center Credit Bank.
 
 The Value-at-Risk model evaluates market risk by determining how much the value of a portfolio is likely to decline over a given period of time with a given probability as a result of changes in market prices or rates.
