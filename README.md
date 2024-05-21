@@ -28,9 +28,9 @@ Another way to quantify risk is Conditional Value-at-Risk (CVaR). If we are talk
 
 VaR may be preferable for portfolio optimization in situations where reliable models for extreme events are lacking, as it overlooks the most hard-to-measure events. Conversely, CVaR may not produce satisfactory results when applied to out-of-sample scenarios if portfolio optimization is based on a poorly composed set of potential scenarios. The medium-reversing nature of assets can make historical data inadequate for predicting future tail events, as periods of high returns are usually followed by periods of low returns. Therefore, CVaR derived from historical data can lead to erroneous risk estimates.
 
-Based on the results of the analysis, several recommendations can be made for the development of an updated methodology for calculating the risk of outflow of deposits for Home Credit Bank.
+Based on the results of the analysis, several recommendations can be made for the development of an updated methodology for calculating the risk of outflow of deposits for Center Credit Bank.
 
 It is recommended to use the Value-at-Risk calculation methodology using modeling and use the parametric model only in the specific cases described in the first part.
 
-Net 10-day risk of outflow of the deposit portfolio as of the date calculated by Monte Carlo simulation - 8.36 billion tenge. But if the risks go beyond the 99th percentile – 9.92 billion tenge – there is a risk of outflow. This is the minimum level of liquidity maintained for Home Credit Bank.
-If we take into account the calculations of VaR and CVaR using the most accurate method – Monte Carlo, on the date of calculation, Home Credit Bank must have at least 25 billion tenge in net liquidity in order to meet the standards of the Basel Committee and cover the risks of outflow of the agreed deposit portfolio.
+Net 10-day risk of outflow of the deposit portfolio as of the date calculated by Monte Carlo simulation - 8.36 billion tenge. But if the risks go beyond the 99th percentile – 9.92 billion tenge – there is a risk of outflow. This is the minimum level of liquidity maintained for Center Credit Bank.
+If we take into account the calculations of VaR and CVaR using the most accurate method – Monte Carlo, on the date of calculation, Center Credit Bank must have at least 25 billion tenge in net liquidity in order to meet the standards of the Basel Committee and cover the risks of outflow of the agreed deposit portfolio.
